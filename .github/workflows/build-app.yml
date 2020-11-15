@@ -71,7 +71,7 @@ jobs:
 
       - uses: actions/upload-artifact@v1
         with:
-          name: Instatus-Out-dist-win
+          name: Electron-Menubar-Template-dist-win
           path: dist
 
   build-linux:
@@ -105,5 +105,5 @@ jobs:
 
       - uses: actions/upload-artifact@v1
         with:
-          name: Instatus-Out-dist-linux
+          name: Electron-Menubar-Template-dist-linux
           path: dist

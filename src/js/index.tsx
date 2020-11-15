@@ -3,4 +3,4 @@ import * as ReactDOM from 'react-dom'
 
 import App from './app'
 
-ReactDOM.render(<App />, document.getElementById('instatus-out'))
+ReactDOM.render(<App />, document.getElementById('electron-menubar-template'))
